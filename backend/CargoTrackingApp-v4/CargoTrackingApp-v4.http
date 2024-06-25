@@ -1,0 +1,6 @@
+@CargoTrackingApp_v4_HostAddress = http://localhost:5071
+
+GET {{CargoTrackingApp_v4_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
